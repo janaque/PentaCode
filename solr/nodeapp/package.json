@@ -9,6 +9,6 @@
   "author": "pentacode",
   "license": "ISC",
   "dependencies": {
-    "solr-node": "1.0.13"
+    "solr-node": "1.0.14"
   }
 }
