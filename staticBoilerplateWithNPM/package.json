@@ -13,11 +13,11 @@
   "author": "pentacode",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "4.0.0"
+    "node-sass": "7.0.2"
   },
   "devDependencies": {
     "browserify": "13.1.1",
-    "node-sass": "4.0.0",
+    "node-sass": "7.0.2",
     "nodemon": "1.11.0"
   }
 }
