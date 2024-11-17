@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 MAINTAINER PentaCode
 RUN apt-get install -y  apache2
 EXPOSE 80
